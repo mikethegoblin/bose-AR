@@ -294,7 +294,7 @@
 /define:ENABLE_LEGACY_INPUT_MANAGER
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-"Assets/Scripts/ballController.cs"
+"Assets/PlayerController.cs"
 "Assets/Scripts/cameraController.cs"
 "Assets/Scripts/rotator.cs"
 /unsafe

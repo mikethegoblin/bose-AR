@@ -401,9 +401,6 @@
     <Reference Include="Bose.Editor.Tools">
       <HintPath>/Users/mike/Documents/New Unity Project/Assets/Bose/Tools/Editor/Bose.Editor.Tools.dll</HintPath>
     </Reference>
-    <Reference Include="Bose.Installer">
-      <HintPath>/Users/mike/Documents/New Unity Project/Assets/Bose/_Installer/Bose.Installer.dll</HintPath>
-    </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
     </Reference>

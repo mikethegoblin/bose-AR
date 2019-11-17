@@ -269,9 +269,6 @@
     <Reference Include="Bose.Editor.Tools">
       <HintPath>/Users/mike/Documents/New Unity Project/Assets/Bose/Tools/Editor/Bose.Editor.Tools.dll</HintPath>
     </Reference>
-    <Reference Include="Bose.Installer">
-      <HintPath>/Users/mike/Documents/New Unity Project/Assets/Bose/_Installer/Bose.Installer.dll</HintPath>
-    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>/Users/mike/Documents/New Unity Project/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>

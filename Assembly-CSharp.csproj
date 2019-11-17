@@ -63,7 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ballController.cs" />
+    <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\Scripts\cameraController.cs" />
     <Compile Include="Assets\Scripts\rotator.cs" />
     <None Include="Assets\csc.rsp" />
@@ -270,9 +270,6 @@
     </Reference>
     <Reference Include="UnityEngine.XRModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
-    </Reference>
-    <Reference Include="Bose.Installer">
-      <HintPath>/Users/mike/Documents/New Unity Project/Assets/Bose/_Installer/Bose.Installer.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
